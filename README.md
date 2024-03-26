@@ -25,7 +25,7 @@ Este aplicativo consiste em uma única tela onde há um campo de entrada para in
 ## Instalação
 
 - Certifique-se de ter o Node.js e o Expo CLI instalados em sua máquina.
-- Clone este repositório: `git clone https://github.com/seu_usuario/CepMustache.git`
+- Clone este repositório: `git clone https://github.com/AlanMestezk/CepMustache.git`
 - Instale as dependências do projeto: `npm install`
 - Inicie o projeto: `npx expo start`
 
