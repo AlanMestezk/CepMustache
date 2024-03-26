@@ -37,3 +37,4 @@ Este aplicativo consiste em uma única tela onde há um campo de entrada para in
 
 https://github.com/AlanMestezk/CepMustache/assets/95321834/e64bc8a2-df41-49dc-8e92-d2bd3db7b451
 
+#### Este projeto está atualmente em fase de desenvolvimento e estaremos postando atualizações com frequência.
